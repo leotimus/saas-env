@@ -1,0 +1,5 @@
+baseUrl: https://webhook.site
+restCalls:
+  publish:
+    method: POST
+    path: /83c72129-8157-4be6-940c-af04ee97e714

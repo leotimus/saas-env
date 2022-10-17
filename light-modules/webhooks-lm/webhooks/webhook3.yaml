@@ -1,0 +1,7 @@
+name: webhook3
+restClientName: alreadyConfiguredClient
+restCallName: publish
+enabled: true
+events:
+  - name: p1
+    eventType: Published

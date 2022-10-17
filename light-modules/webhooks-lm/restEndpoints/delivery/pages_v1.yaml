@@ -1,0 +1,17 @@
+workspace: website
+nodeTypes:
+  - mgnl:page
+includeSystemProperties: true
+bypassWorkspaceAcls: true
+limit: 50
+depth: 10
+personalized: true
+
+references:
+  - name: image
+    propertyName: image
+    referenceResolver:
+      $type: assetReferenceResolver
+      assetRenditions:
+        - '480'
+        - 1600x1200
