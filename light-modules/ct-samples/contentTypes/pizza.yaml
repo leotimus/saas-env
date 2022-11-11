@@ -1,7 +1,7 @@
 datasource:
   $type: norsuContentTypeDatasource
-  workspace: sample2
-  rootPath: /a2/a3/a4
+  workspace: pizza
+  # rootPath: /a2/a3/a4
   autoCreate: true
 model:
   nodeType: pizza:pepperoni
