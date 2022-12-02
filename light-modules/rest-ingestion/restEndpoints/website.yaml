@@ -1,2 +1,2 @@
-class: info.magnolia.test.ingestion.rest.SaaSTestDataIngestionEndpointDefinition
-endpointPath: /ingest
+$type: pagesDeliveryEndpoint_v2
+workspace: website
