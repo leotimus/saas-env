@@ -1,2 +1,7 @@
 $type: pagesDeliveryEndpoint_v2
 workspace: websitee2e
+includeSystemProperties: true
+depth: 5
+nodeTypeMappings:
+  pages:
+    $type: pagesResolver_v2
