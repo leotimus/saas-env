@@ -1,0 +1,4 @@
+$type: deliveryEndpoint_v2
+workspace: tours
+depth: 20
+includeSystemProperties: true
