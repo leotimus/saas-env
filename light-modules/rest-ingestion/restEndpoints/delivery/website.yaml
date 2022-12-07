@@ -9,3 +9,9 @@ references:
       $type: norsuReferenceResolver
       targetWorkspace: tours
       expand: true
+  - name: image
+    propertyName: image
+    referenceResolver:
+      $type: assetReferenceResolver
+      assetRenditions:
+        - 320x240
