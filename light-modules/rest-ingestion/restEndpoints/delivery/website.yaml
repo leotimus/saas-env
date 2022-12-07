@@ -1,6 +1,7 @@
 $type: pagesDeliveryEndpoint_v2
 workspace: websitee2e
 depth: 5
+referenceDepth: 5
 references:
   - name: tourReference
     propertyName: tours
