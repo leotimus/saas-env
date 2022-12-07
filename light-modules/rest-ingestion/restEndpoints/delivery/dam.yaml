@@ -1,0 +1,4 @@
+$type: deliveryEndpoint_v2
+workspace: dam
+depth: 40
+includeSystemProperties: true
