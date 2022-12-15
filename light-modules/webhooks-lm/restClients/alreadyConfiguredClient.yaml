@@ -1,4 +1,4 @@
-baseUrl: https://webhook.site
+baseUrl: https://webhook1.site
 restCalls:
   publish:
     method: POST
