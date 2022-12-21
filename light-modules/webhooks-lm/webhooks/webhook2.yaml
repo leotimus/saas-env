@@ -1,8 +1,0 @@
-name: webhook2
-url: https://webhook.site/83c72129-8157-4be6-940c-af04ee97e714
-method: get
-enabled: true
-events:
-  - name: p1
-    eventType: Unpublished
-
