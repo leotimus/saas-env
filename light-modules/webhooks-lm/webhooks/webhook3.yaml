@@ -3,5 +3,5 @@ restClientName: alreadyConfiguredClient
 restCallName: publish
 enabled: true
 events:
-  - name: p1
+  - name: p11
     eventType: Published
