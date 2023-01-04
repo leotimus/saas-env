@@ -1,5 +1,5 @@
 name: webhook1
-url: https://webhook.site/83c72129-8157-4be6-940c-af04ee97e714
+url: https://wh.ltms.dev/e6c03c28-080f-4d3d-ad15-88759f3d7bd9
 method: post
 enabled: true
 events:
