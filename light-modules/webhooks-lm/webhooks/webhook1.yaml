@@ -3,5 +3,5 @@ url: https://wh.ltms.dev/e6c03c28-080f-4d3d-ad15-88759f3d7bd9
 method: post
 enabled: true
 events:
-  - name: p11
+  - name: p1
     eventType: Published
