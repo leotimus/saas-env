@@ -1,0 +1,28 @@
+datasource:
+  $type: norsuContentTypeDatasource
+  workspace: magnolia-travels1
+  autoCreate: true
+
+
+model:
+  properties:
+    - name: name
+      label: Text Name
+      i18n: true
+      required: true
+    - name: page
+      type: page
+    - name: guides
+      type: Guide
+      label: Guides
+      multiple: true
+    - name: guides-composite
+      type: Guide
+      label: Guides
+  subModels:
+    - name: Guide
+      properties:
+        - name: name
+          label: Name
+        - name: phoneNumber
+          label: Phone Number

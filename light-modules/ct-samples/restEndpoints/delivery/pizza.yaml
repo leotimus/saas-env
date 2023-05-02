@@ -1,8 +1,0 @@
-class: info.magnolia.rest.delivery.norsu.NorsuDeliveryEndpointDefinition
-depth: 10
-workspace: pizza
-includeSystemProperties: true
-systemProperties:
-  - primaryType
-  - created
-  - createdBy

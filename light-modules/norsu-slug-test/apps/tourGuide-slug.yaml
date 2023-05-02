@@ -1,0 +1,37 @@
+!content-type:tourGuide-slug
+label: slug test
+#subApps:
+#  browser:
+#    workbench:
+#      contentViews: 
+#        tree: !override
+#          $type: treeView
+#          multiSelect: true
+#          columns:
+#            - name: title
+#              $type: titleColumn
+#            - name: name
+#              label: name
+#            - name: path
+#              $type: pathColumn
+#            - name: publishingStatus
+#              $type: statusColumn
+#            - name: mgnl:lastModified
+#              $type: lastModifiedColumn
+#  detail: 
+#    form: 
+#      properties: 
+#        - name: mgnl:name
+#          label: mgnl:name
+#          i18n: false
+#          required: true
+#          $type: textField
+#          validators:
+#            - $type: contentNameValidator
+#        - name: name
+#          i18n: false
+#          required: true
+#          $type: textField
+#          
+          
+
