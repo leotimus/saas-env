@@ -1,2 +1,3 @@
 class: info.magnolia.rest.delivery.norsu.ConfiguredNorsuDeliveryEndpointDefinition
-depth: 3
+workspace: norsu-activities
+# depth: 3
